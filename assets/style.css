@@ -1,0 +1,18 @@
+#header, #display, #submission {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 25px;
+}
+
+#header {
+	text-align: center;
+}
+
+form {
+	margin: 25px;
+}
+
+#warning {
+	color: red;
+	opacity: 0.75;
+}
